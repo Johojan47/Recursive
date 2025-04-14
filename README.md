@@ -1,1 +1,3 @@
 # Recursive
+
+My goal was to make it feel like those old text based games. My strategy was that whenever the user was to play the game again it wouldn't be the same way. By this I mean, I don't want the user to feel like he can just restart the game and just remember the choices they made until they get the right answer. So, I added the randomizer to whether or not they can get a gun. So, maybe the first time they started with no gun and chose the wrong answers, and now the next time they might start off with a gun and be surpised and decide to do something with it. Which makes the user explore various option the first where they just died from the wrong decision, the second or third being dying with the gun or escaping with the gun.
